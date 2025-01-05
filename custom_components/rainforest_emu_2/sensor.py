@@ -14,8 +14,6 @@ from homeassistant.const import (
     ATTR_MODEL,
     ATTR_HW_VERSION,
     ATTR_SW_VERSION,
-    ENERGY_KILO_WATT_HOUR,
-    POWER_KILO_WATT,
     CURRENCY_DOLLAR,
 )
 
