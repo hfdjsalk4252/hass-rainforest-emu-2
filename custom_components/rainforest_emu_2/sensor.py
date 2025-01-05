@@ -19,7 +19,12 @@ from homeassistant.const import (
     CURRENCY_DOLLAR,
 )
 
-from .const import DOMAIN, DEVICE_NAME
+from .const import (
+    DOMAIN, 
+    DEVICE_NAME, 
+    ENERGY_KILO_WATT_HOUR, 
+    POWER_KILO_WATT
+)
 
 # Only allow a single update at a time as they all go through the same serial interface
 PARALLEL_UPDATES = 1
