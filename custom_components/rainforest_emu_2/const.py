@@ -5,3 +5,5 @@ DEVICE_NAME = "Rainforest EMU-2"
 
 ATTR_DEVICE_PATH = "device path"
 ATTR_DEVICE_MAC_ID = "device mac id"
+ENERGY_KILO_WATT_HOUR = "kWh"
+POWER_KILO_WATT = "kW"
