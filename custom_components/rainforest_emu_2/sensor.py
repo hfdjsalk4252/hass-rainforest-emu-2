@@ -21,7 +21,7 @@ from .const import (
     DOMAIN, 
     DEVICE_NAME, 
     ENERGY_KILO_WATT_HOUR, 
-    POWER_KILO_WATT
+    POWER_KILO_WATT,
 )
 
 # Only allow a single update at a time as they all go through the same serial interface
